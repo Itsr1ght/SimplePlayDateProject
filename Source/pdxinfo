@@ -1,0 +1,6 @@
+name=First Game
+author=Bilal Jafar
+description=This is the First Game
+bundleID=com.dev.first
+version=0.0.1
+buildNumber=341
